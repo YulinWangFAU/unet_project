@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .env
 *.ipynb_checkpoints
+.idea/
+.DS_Store
